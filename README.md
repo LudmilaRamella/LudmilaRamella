@@ -8,7 +8,7 @@
 
 ## Habilidades
 
-- **Lenguajes:** JavaScript, HTML, CSS
+- **Lenguajes:** JavaScript, HTML, CSS, C++, Java
 - **Herramientas:** Git, Github
 - **Diseño:** Conocimientos básicos en diseño de interfaces de usuario (UI/UX)
 
@@ -18,7 +18,7 @@
 
 ## Redes Sociales
 
-- [LinkedIn]([https://www.linkedin.com/in/juanperez](https://www.linkedin.com/in/ludmila-kusz%C3%B1ir-ramella-1bb778234))
+- [LinkedIn](https://www.linkedin.com/in/ludmila-kusz%C3%B1ir-ramella-1bb778234/)
 - [GitHub](https://github.com/LudmilaRamella)
 
 ## Un poco más sobre mí
